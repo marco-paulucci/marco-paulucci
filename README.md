@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   A fast-paced multiplayer brawler for mobile. It features many characters with unique skillsets, multiple game-modes, progression and more. It is developed using [lambdaclass' game backend](https://github.com/lambdaclass/mirra_backend). Developed by LambdaClass.
   
 
-  ![IMG_6855](https://github.com/user-attachments/assets/759603a4-a774-46d0-8b88-ec0fd388b103)  
+  ![IMG](src/1.png)  
   https://championsofmirra.com/
 
 ---
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 
 I made the project for personal use but I might go the extra mile one day to release it into production.
 
-![image](https://github.com/user-attachments/assets/c948d73a-9fdf-4942-b41a-b9feb049599e)
-  ![image](https://github.com/user-attachments/assets/e88f535a-5e8d-4de6-8df0-1e5049924c5a)
+  ![IMG](src/2.png)  
+  ![IMG](src/3.png)  
 
 
 
@@ -81,7 +81,7 @@ I made the project for personal use but I might go the extra mile one day to rel
 
   **Epic Warriors** (Prototype)
     
-MMO Idle RPG/Autobattler developed using Unity and C# backend. It contains basic currencies, online battling, campaign and hero management. The goal of the game was a focus on F2P and "seasons" with much faster progress that resets monthly. [1](https://github.com/user-attachments/assets/7fdb6df6-2880-4a5a-bdab-6e29fbdd6a0b), [2](https://github.com/user-attachments/assets/b0aee928-1dec-44f8-8250-a42c2f2212f6), [3](https://github.com/user-attachments/assets/bd884ac8-6728-439f-8d98-0eede7bbd1f7), [4](https://github.com/user-attachments/assets/5f79809c-93af-433d-aba3-c2f8b323754d)
+MMO Idle RPG/Autobattler developed using Unity and C# backend. It contains basic currencies, online battling, campaign and hero management. The goal of the game was a focus on F2P and "seasons" with much faster progress that resets monthly. [1](src/4.png), [2](src/5.png)
 
 ---
   
