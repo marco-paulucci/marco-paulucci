@@ -81,7 +81,7 @@ I made the project for personal use but I might go the extra mile one day to rel
 
   **Epic Warriors** (Prototype)
     
-MMO Idle RPG/Autobattler developed using Unity and C# backend. It contains basic currencies, online battling, campaign and hero management. The goal of the game was a focus on F2P and "seasons" with much faster progress that resets monthly. [1](src/4.png), [2](src/5.png)
+MMO Idle RPG/Autobattler developed using Unity and C# backend. It contains basic currencies, online battling, campaign and hero management. The goal of the game was a focus on F2P and "seasons" with much faster progress that resets monthly. [1](src/5.png), [2](src/6.png)
 
 ---
   
